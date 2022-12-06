@@ -1,0 +1,71 @@
+.profile {
+   margin-left: 3px 3px;
+   width: 300px;
+   height: 650px;
+   background-color: black;
+   padding: 20px;
+   color: white;
+   top: 10px;
+   position: absolute;
+
+}
+p{
+   padding-left: 10px;
+}
+button{
+   background-color: blue;
+   color: white;
+   margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+   font-size: 30px;
+   border-radius: 5px;
+
+}
+
+.profile {
+   background-color: black;
+   padding: 5px;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   border-left: 50px;
+}
+
+b{
+   padding-left: 80px;
+   margin-left: 20px;
+   margin-right:20px ;
+   text-align: center;
+}
+
+.landscape{
+  position: absolute;
+  right: 0px;
+  width: 900px;
+  height: 570px;
+  background-color: blue;
+  color: white;
+  top: 120px;
+} 
+
+.ogo{
+   background-color: blueviolet;
+   position: absolute;
+   width: 0px;
+   height: 0px;
+   color: white;
+   margin-left: 390px;
+   margin-right: auto;
+   display: block;
+}
+
+.picture{
+list-style-type: none;
+display: inline-block;
+background-color: BLUE;
+color:white;
+margin: 10px;
+padding: 10px;
+text-align: center;
+}
